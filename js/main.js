@@ -58,4 +58,3 @@ const photos=Array.from({length: 25},createPhoto);
 console.log(createPhoto());
 console.log(createComments());
 console.log(photos);
-
